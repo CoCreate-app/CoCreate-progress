@@ -32,7 +32,7 @@ var CoCreateProgress = {
 	
 	initEvent: function() {
 		let _this = this;
-		socket.on('readDocumentList', function(data) {
+		CoCreateSocket.listen('readDocumentList', function(data) {
 
 			if (data.metadata == "progress-total") {
 				_this.renderProgress(data, true);
