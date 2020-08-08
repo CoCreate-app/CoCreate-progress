@@ -67,13 +67,21 @@ var CoCreateProgress = {
 		elements = document.querySelectorAll(`.progressbar[data-progress_id="${element_id}"]`)
 		
 		elements.forEach((el) => {
-			if (isTotal) {
-				el.setAttribute('data-total', result_count);
-			} else {
-				el.setAttribute('data-value', result_count);
-			}
 			
-			_this.renderBar(el)
+			if (el.tagName === "PROGRESS") {
+				if (isTotal) {
+					el.setAttribute('max', result_count);
+				} else {
+					el.setAttribute('value', result_count);
+				}
+			} else {
+				if (isTotal) {
+					el.setAttribute('data-total', result_count);
+				} else {
+					el.setAttribute('data-value', result_count);
+				}
+				_this.renderBar(el)
+			}
 		})
 	},
 	

@@ -10,15 +10,15 @@
     <link rel="stylesheet" href="https://server.cocreate.app/css/CoCreate.min.css" type="text/css" />
   
     <!--<link rel="stylesheet" href="https://server.cocreate.app/css/CoCreate.min.css" type="text/css" />-->
-    <link rel="stylesheet" href="https://cdn.cocreate.app/CoCreate.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://server.cocreate.app/css/CoCreate.min.css" type="text/css" />
     
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" crossorigin="anonymous" />    
   </head>
   
-  <body class="padding-20px">
+  <body class="padding:20px">
   
-    <div class="progress-wrapper display-flex align-items-center"
+    <div class="progress-wrapper display:flex align-items-center"
       data-fetch_collection="test"
       data-fetch_name=""
       data-fetch_value=""
@@ -27,10 +27,25 @@
       data-progress_operator="lt"
       data-progress_id="progress_test"
     >
-      <div class="progressTotal padding-10px-lr" data-progress_id="progress_test"></div> 
+      <div class="progressTotal padding:0px_10px" data-progress_id="progress_test"></div> 
       /
-      <div class="progressValue padding-10px-lr" data-progress_id="progress_test"></div>
+      <div class="progressValue padding:0px_10px" data-progress_id="progress_test"></div>
       <div class="progressbar" data-progress_id="progress_test"  data-total="" data-value=""></div>
+    </div>
+    
+    <div class="progress-wrapper display:flex align-items-center"
+      data-fetch_collection="test"
+      data-fetch_name=""
+      data-fetch_value=""
+      data-progress_name="start_date"
+      data-progress_value="2020-06-15"
+      data-progress_operator="lt"
+      data-progress_id="progress_test-bar"
+    >
+      <div class="progressTotal padding:0px_10px" data-progress_id="progress_test-bar"></div> 
+      /
+      <div class="progressValue padding:0px_10px" data-progress_id="progress_test-bar"></div>
+      <progress class="progressbar" data-progress_id="progress_test-bar"  data-total="" data-value=""></progress>
     </div>
 
     <script>
@@ -41,7 +56,7 @@
       }
     </script>
    
-    <!--<script src="https://cdn.cocreate.app/CoCreate.min.js"></script>-->
+    <!--<script src="https://server.cocreate.app/js/CoCreate.min.js"></script>-->
   
     <script src="https://server.cocreate.app/js/CoCreate.min.js"></script>
     <!--<script src="https://server.cocreate.app/CoCreateJS/src/CoCreate-socket.js"></script>-->
@@ -68,8 +83,8 @@
   
     <!--<script src="https://server.cocreate.app/CoCreate-components/CoCreate-init/CoCreate-init.js"></script>-->
   
-    <script src="https://cdn.cocreate.app/CoCreateUI.min.js"></script>
-    <script src="https://server.cocreate.app/CoCreate-components/CoCreate-select/src/CoCreate-select.js"></script>
+    <!--<script src="https://cdn.cocreate.app/CoCreateUI.min.js"></script>-->
+    <!--<script src="https://server.cocreate.app/CoCreate-components/CoCreate-select/src/CoCreate-select.js"></script>-->
   
   </body>
 </html>
