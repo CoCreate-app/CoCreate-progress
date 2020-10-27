@@ -15,7 +15,7 @@ var CoCreateProgress = {
 		let elements = main_container.querySelectorAll(this.selector);
 		let _this = this;
 		elements.forEach((el) => {
-			let filter = g_cocreateFilter.setFilter(el, 'data-progress_id', 'progress')
+			let filter = CoCreateFilter.setFilter(el, 'data-progress_id', 'progress')
 			
 			if (!filter) return;
 			
@@ -110,8 +110,8 @@ var CoCreateProgress = {
 		
 		let filter = select_obj.filter;
 		console.log(filter)
-		let totalFilter = g_cocreateFilter.makeFetchOptions(filter);
-		let valueFilter = g_cocreateFilter.makeFetchOptions(filter)
+		let totalFilter = CoCreateFilter.makeFetchOptions(filter);
+		let valueFilter = CoCreateFilter.makeFetchOptions(filter)
 
 		let progressName = el.getAttribute('data-progress_name')
 		let progressValue = el.getAttribute('data-progress_value')
