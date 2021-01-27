@@ -132,5 +132,4 @@ var CoCreateProgress = {
 
 CoCreateProgress.init();
 
-
-
+export default CoCreateProgress;
