@@ -15,7 +15,7 @@ var CoCreateProgress = {
 		let elements = main_container.querySelectorAll(this.selector);
 		let _this = this;
 		elements.forEach((el) => {
-			let filter = CoCreateFilter.setFilter(el, 'data-progress_id', 'progress')
+			let filter = CoCreate.filter.setFilter(el, 'data-progress_id', 'progress')
 			
 			if (!filter) return;
 			
@@ -32,7 +32,7 @@ var CoCreateProgress = {
 	
 	initEvent: function() {
 		let _this = this;
-		CoCreateSocket.listen('readDocumentList', function(data) {
+		CoCreate.socket.listen('readDocumentList', function(data) {
 
 			if (data.metadata == "progress-total") {
 				_this.renderProgress(data, true);
@@ -110,8 +110,8 @@ var CoCreateProgress = {
 		
 		let filter = select_obj.filter;
 		console.log(filter)
-		let totalFilter = CoCreateFilter.makeFetchOptions(filter);
-		let valueFilter = CoCreateFilter.makeFetchOptions(filter)
+		let totalFilter = CoCreate.filter.makeFetchOptions(filter);
+		let valueFilter = CoCreate.filter.makeFetchOptions(filter)
 
 		let progressName = el.getAttribute('data-progress_name')
 		let progressValue = el.getAttribute('data-progress_value')
@@ -125,8 +125,8 @@ var CoCreateProgress = {
 		val_filter.push({name: progressName, value: [progressValue], operator: valueOperator});
 		valueFilter['operator']['filters'] = val_filter;
 
-		CoCreate.readDocumentList(totalFilter)
-		CoCreate.readDocumentList(valueFilter)
+		CoCreate.crud.readDocumentList(totalFilter)
+		CoCreate.crud.readDocumentList(valueFilter)
 	}
 }
 
