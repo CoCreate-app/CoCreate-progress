@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.2...v1.0.3) (2021-04-23)
+
+
+### Bug Fixes
+
+* readme and documentation. Removed securitykeys ([5d23ef2](https://github.com/CoCreate-app/CoCreate-progress/commit/5d23ef20013a6c998ae32c2ec8d124e3742365a6))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.1...v1.0.2) (2021-04-19)
 
 
