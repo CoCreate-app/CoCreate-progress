@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "6020910c3c260207bf49cabe",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "progress Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
