@@ -60,7 +60,9 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
+    "@cocreate/crud-client": "^1.0.9",
     "@cocreate/docs": "^1.0.3",
+    "@cocreate/filter": "^1.0.9",
     "mini-css-extract-plugin": "^1.5.0"
   }
 }

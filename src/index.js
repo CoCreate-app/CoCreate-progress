@@ -1,3 +1,5 @@
+import ccfilter from '@cocreate/filter'
+import crud from '@cocreate/crud-client';
 var CoCreateProgress = {
 	
 	selector: ".progress-wrapper",
@@ -15,7 +17,7 @@ var CoCreateProgress = {
 		let elements = main_container.querySelectorAll(this.selector);
 		let _this = this;
 		elements.forEach((el) => {
-			let filter = CoCreate.filter.setFilter(el, 'data-progress_id', 'progress')
+			let filter =ccfilter.setFilter(el, 'data-progress_id', 'progress')
 			
 			if (!filter) return;
 			
@@ -32,7 +34,7 @@ var CoCreateProgress = {
 	
 	initEvent: function() {
 		let _this = this;
-		CoCreate.socket.listen('readDocumentList', function(data) {
+		crud.listen('readDocumentList', function(data) {
 
 			if (data.metadata == "progress-total") {
 				_this.renderProgress(data, true);
@@ -110,8 +112,8 @@ var CoCreateProgress = {
 		
 		let filter = select_obj.filter;
 		console.log(filter)
-		let totalFilter = CoCreate.filter.makeFetchOptions(filter);
-		let valueFilter = CoCreate.filter.makeFetchOptions(filter)
+		let totalFilter = ccfilter.makeFetchOptions(filter);
+		let valueFilter = ccfilter.makeFetchOptions(filter)
 
 		let progressName = el.getAttribute('data-progress_name')
 		let progressValue = el.getAttribute('data-progress_value')
@@ -125,8 +127,8 @@ var CoCreateProgress = {
 		val_filter.push({name: progressName, value: [progressValue], operator: valueOperator});
 		valueFilter['operator']['filters'] = val_filter;
 
-		CoCreate.crud.readDocumentList(totalFilter)
-		CoCreate.crud.readDocumentList(valueFilter)
+		crud.readDocumentList(totalFilter)
+		crud.readDocumentList(valueFilter)
 	}
 }
 
