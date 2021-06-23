@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.6...v1.0.7) (2021-06-23)
+
+
+### Bug Fixes
+
+* update to new crud.save and crud.read ([b7137de](https://github.com/CoCreate-app/CoCreate-progress/commit/b7137de163487a6ccc13a6a9ef114febefd50fba))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.5...v1.0.6) (2021-06-16)
 
 
