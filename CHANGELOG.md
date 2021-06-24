@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.7...v1.0.8) (2021-06-24)
+
+
+### Bug Fixes
+
+* update all [@cocreate](https://github.com/cocreate) to use latest versions ([6259ebe](https://github.com/CoCreate-app/CoCreate-progress/commit/6259ebe610fb14fa82444442211aacc4c48221bf))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.6...v1.0.7) (2021-06-23)
 
 
