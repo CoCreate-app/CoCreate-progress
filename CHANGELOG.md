@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.10...v1.0.11) (2021-06-30)
+
+
+### Bug Fixes
+
+* automated and manual workflows ([49518fe](https://github.com/CoCreate-app/CoCreate-progress/commit/49518febe6aa3e3cc0c9a0d71b6d718685938256))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.9...v1.0.10) (2021-06-25)
 
 
