@@ -1,3 +1,11 @@
+## [1.0.15](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.14...v1.0.15) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([d5cd302](https://github.com/CoCreate-app/CoCreate-progress/commit/d5cd302751be64cad711011a652f63442f310a0f))
+* remove yarn.lock ([1560ec1](https://github.com/CoCreate-app/CoCreate-progress/commit/1560ec1e6fdb762e9982b0e423c7cbb3f80fe87c))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.0.13...v1.0.14) (2021-07-10)
 
 
