@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/progress",
-  "version": "1.0.14",
+  "version": "1.0.16",
   "description": "A simple progress component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "progress",
@@ -61,7 +61,7 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/crud-client": "^1.1.12",
+    "@cocreate/crud-client": "^1.1.15",
     "@cocreate/docs": "^1.1.29",
     "@cocreate/filter": "^1.0.16"
   }
