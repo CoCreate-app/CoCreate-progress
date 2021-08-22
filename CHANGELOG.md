@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.5...v1.1.6) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([770fd85](https://github.com/CoCreate-app/CoCreate-progress/commit/770fd858363276350747fed43f5f7d14504f58b5))
+
 ## [1.1.5](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.4...v1.1.5) (2021-08-22)
 
 
