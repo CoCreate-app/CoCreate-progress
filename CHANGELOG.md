@@ -1,3 +1,11 @@
+## [1.1.25](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.24...v1.1.25) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependencies ([d031761](https://github.com/CoCreate-app/CoCreate-progress/commit/d0317619d2c720a43bc2379d3993cd49833ab3d5))
+* website_id in CoCreate.config ([77b0003](https://github.com/CoCreate-app/CoCreate-progress/commit/77b0003b74505563240eaba1c95ae1c422c02781))
+
 ## [1.1.24](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.23...v1.1.24) (2021-10-04)
 
 
