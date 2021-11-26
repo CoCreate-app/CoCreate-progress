@@ -1,3 +1,10 @@
+## [1.1.46](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.45...v1.1.46) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([5228a13](https://github.com/CoCreate-app/CoCreate-progress/commit/5228a13c96a7d23e2bf3f977e6b96b12defc6ad4))
+
 ## [1.1.45](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.44...v1.1.45) (2021-11-26)
 
 
