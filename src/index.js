@@ -47,8 +47,8 @@ var CoCreateProgress = {
 	renderProgress(data, isTotal) {
 		//.
 		if (!data) return;
-		const element_id = data.element;
-		if (!element_id) {
+		const eid = data.element;
+		if (!eid) {
 			return;
 		}
 
@@ -56,7 +56,7 @@ var CoCreateProgress = {
 		let _this = this;		
 		let elements = [];
 		let selector  = isTotal ? '.progressTotal' : '.progressValue';
-		selector = selector + `[data-progress_id="${element_id}"]`;
+		selector = selector + `[data-progress_id="${eid}"]`;
 		
 		elements = document.querySelectorAll(selector)
 
@@ -66,7 +66,7 @@ var CoCreateProgress = {
 		
 		//. set progressbar
 		
-		elements = document.querySelectorAll(`.progressbar[data-progress_id="${element_id}"]`)
+		elements = document.querySelectorAll(`.progressbar[data-progress_id="${eid}"]`)
 		
 		elements.forEach((el) => {
 			
