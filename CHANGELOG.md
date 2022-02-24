@@ -1,3 +1,10 @@
+## [1.1.59](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.58...v1.1.59) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([c9805a7](https://github.com/CoCreate-app/CoCreate-progress/commit/c9805a78a0feade7b031627fe38688d1539955f8))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.57...v1.1.58) (2022-02-16)
 
 
