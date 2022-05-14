@@ -34,7 +34,7 @@ var CoCreateProgress = {
 	
 	initEvent: function() {
 		let _this = this;
-		crud.listen('readDocumentList', function(data) {
+		crud.listen('readDocuments', function(data) {
 
 			if (data.metadata == "progress-total") {
 				_this.renderProgress(data, true);
@@ -127,8 +127,8 @@ var CoCreateProgress = {
 		val_filter.push({name: progressName, value: [progressValue], operator: valueOperator});
 		valueFilter['operator']['filters'] = val_filter;
 
-		crud.readDocumentList(totalFilter)
-		crud.readDocumentList(valueFilter)
+		crud.readDocuments(totalFilter)
+		crud.readDocuments(valueFilter)
 	}
 }
 
