@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.60...v1.2.0) (2022-05-14)
+
+
+### Features
+
+* function readDocumentList has been renamed to readDocuments ([16146f9](https://github.com/CoCreate-app/CoCreate-progress/commit/16146f9ac290e4c7f65725149e5a3c1a182a7d2c))
+
 ## [1.1.60](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.1.59...v1.1.60) (2022-05-06)
 
 
