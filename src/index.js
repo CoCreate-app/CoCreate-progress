@@ -112,8 +112,8 @@ var CoCreateProgress = {
 		
 		let filter = select_obj.filter;
 		console.log(filter)
-		let totalFilter = ccfilter.makeFetchOptions(filter);
-		let valueFilter = ccfilter.makeFetchOptions(filter)
+		let totalFilter = {...filter};
+		let valueFilter = {...filter}
 
 		let progressName = el.getAttribute('data-progress_name')
 		let progressValue = el.getAttribute('data-progress_value')
