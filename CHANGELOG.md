@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.5...v1.2.6) (2022-09-22)
+
+
+### Bug Fixes
+
+* filter makeFetchOptions has be depreciated. ([6a6b2ba](https://github.com/CoCreate-app/CoCreate-progress/commit/6a6b2ba883bc1e747fbf470366b50b0d81f8b39c))
+
 ## [1.2.5](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.4...v1.2.5) (2022-09-01)
 
 
