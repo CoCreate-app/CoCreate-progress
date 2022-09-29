@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.6...v1.2.7) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([c690e56](https://github.com/CoCreate-app/CoCreate-progress/commit/c690e56f2efdc61707566f01d07ac015da71e06c))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.5...v1.2.6) (2022-09-22)
 
 
