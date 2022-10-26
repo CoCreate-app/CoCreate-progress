@@ -1,5 +1,12 @@
 import ccfilter from '@cocreate/filter'
-import crud from '@cocreate/crud-client';
+import CRUD from '@cocreate/crud-client';
+
+let crud
+if(CRUD && CRUD.default)
+	crud = CRUD.default
+else
+	crud = CRUD
+
 var CoCreateProgress = {
 	
 	selector: ".progress-wrapper",
@@ -127,8 +134,8 @@ var CoCreateProgress = {
 		val_filter.push({name: progressName, value: [progressValue], operator: valueOperator});
 		valueFilter['operator']['filters'] = val_filter;
 
-		crud.readDocuments(totalFilter)
-		crud.readDocuments(valueFilter)
+		crud.readDocument(totalFilter)
+		crud.readDocument(valueFilter)
 	}
 }
 
