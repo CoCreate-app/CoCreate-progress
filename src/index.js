@@ -59,7 +59,7 @@ var CoCreateProgress = {
 			return;
 		}
 
-		const result_count = data['data'].length
+		const result_count = data.document.length
 		let _this = this;		
 		let elements = [];
 		let selector  = isTotal ? '.progressTotal' : '.progressValue';
