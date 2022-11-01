@@ -41,7 +41,7 @@ var CoCreateProgress = {
 	
 	initEvent: function() {
 		let _this = this;
-		crud.listen('readDocuments', function(data) {
+		crud.listen('readDocument', function(data) {
 
 			if (data.metadata == "progress-total") {
 				_this.renderProgress(data, true);
