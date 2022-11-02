@@ -24,7 +24,7 @@ var CoCreateProgress = {
 		let elements = main_container.querySelectorAll(this.selector);
 		let _this = this;
 		elements.forEach((el) => {
-			let filter =ccfilter.setFilter(el, 'data-progress_id', 'progress')
+			let filter = ccfilter.init(el, 'data-progress_id', 'progress')
 			
 			if (!filter) return;
 			
