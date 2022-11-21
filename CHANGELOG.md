@@ -1,3 +1,14 @@
+## [1.2.16](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.15...v1.2.16) (2022-11-21)
+
+
+### Bug Fixes
+
+* memory_size renamed to memorySize ([81b12d1](https://github.com/CoCreate-app/CoCreate-progress/commit/81b12d113bfcf4516a0fc5e94bf9aa0ec1c12cd6))
+* renamed data.data to data.document ([b779550](https://github.com/CoCreate-app/CoCreate-progress/commit/b779550ad9b679e21ecbd359a45fbb2c7b4f634d))
+* renamed fiter.setFilter to filter.init ([c041e62](https://github.com/CoCreate-app/CoCreate-progress/commit/c041e6212bc7b5978822a2a23513070d714a2f42))
+* renamed readDocuments to readDocument ([2ed3d4e](https://github.com/CoCreate-app/CoCreate-progress/commit/2ed3d4eea4234a9ab460fe67a36fed7d941619f0))
+* update crud functions to receive an array of objects as the response ([661ea16](https://github.com/CoCreate-app/CoCreate-progress/commit/661ea168f1cc6349c564a0e38aa9c7beac21182e))
+
 ## [1.2.15](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.14...v1.2.15) (2022-10-02)
 
 
