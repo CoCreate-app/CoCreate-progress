@@ -1,3 +1,10 @@
+## [1.2.19](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.18...v1.2.19) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([2b74ef3](https://github.com/CoCreate-app/CoCreate-progress/commit/2b74ef3735d20f5c52ab18e1e7490a0d59663703))
+
 ## [1.2.18](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.17...v1.2.18) (2022-11-21)
 
 
