@@ -1,3 +1,10 @@
+## [1.2.18](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.17...v1.2.18) (2022-11-21)
+
+
+### Bug Fixes
+
+* bump [@cocreate](https://github.com/cocreate) dependencies ([388b08d](https://github.com/CoCreate-app/CoCreate-progress/commit/388b08d2616e5dd5ba29ae511fab28e1496b9137))
+
 ## [1.2.17](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.16...v1.2.17) (2022-11-21)
 
 
