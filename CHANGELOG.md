@@ -1,3 +1,11 @@
+## [1.2.21](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.20...v1.2.21) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([64d2727](https://github.com/CoCreate-app/CoCreate-progress/commit/64d272719bb5aa882f66c5455fe4463880627eac))
+* workflow docs ([de05b7d](https://github.com/CoCreate-app/CoCreate-progress/commit/de05b7d06ec1011cae1e94630f385700756c8de5))
+
 ## [1.2.20](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.19...v1.2.20) (2022-11-21)
 
 
