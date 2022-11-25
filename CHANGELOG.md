@@ -1,3 +1,11 @@
+## [1.2.24](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.23...v1.2.24) (2022-11-25)
+
+
+### Bug Fixes
+
+* bump dependencies ([a7c177f](https://github.com/CoCreate-app/CoCreate-progress/commit/a7c177fbcdfa7019473e72f339d18382095a97df))
+* CoCreate.crud.default removed bug causing default object ([d485a28](https://github.com/CoCreate-app/CoCreate-progress/commit/d485a284f60841f181b44648a357974d09318274))
+
 ## [1.2.23](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.22...v1.2.23) (2022-11-24)
 
 
