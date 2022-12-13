@@ -1,3 +1,10 @@
+## [1.2.37](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.36...v1.2.37) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([8b8929f](https://github.com/CoCreate-app/CoCreate-progress/commit/8b8929f1be6b53bacfd7cb9f5fe290538cc6a521))
+
 ## [1.2.36](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.35...v1.2.36) (2022-12-13)
 
 
