@@ -1,3 +1,10 @@
+## [1.2.38](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.37...v1.2.38) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([8569cd3](https://github.com/CoCreate-app/CoCreate-progress/commit/8569cd35e5928e397789bde4acfca1649fee4df5))
+
 ## [1.2.37](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.36...v1.2.37) (2022-12-13)
 
 
