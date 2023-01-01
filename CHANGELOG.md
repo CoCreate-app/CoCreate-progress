@@ -1,3 +1,10 @@
+## [1.2.49](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.48...v1.2.49) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([e1f2fa9](https://github.com/CoCreate-app/CoCreate-progress/commit/e1f2fa936b87056fe8440496cdb85df6ef165f05))
+
 ## [1.2.48](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.47...v1.2.48) (2022-12-31)
 
 
