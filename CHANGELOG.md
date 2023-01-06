@@ -1,3 +1,11 @@
+## [1.2.51](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.50...v1.2.51) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([9eb31d4](https://github.com/CoCreate-app/CoCreate-progress/commit/9eb31d41329f469d65430214acbb9ab181d6dfae))
+* edit in github btn styles ([283323b](https://github.com/CoCreate-app/CoCreate-progress/commit/283323b07b528f912562d1da74c1793f7381ac18))
+
 ## [1.2.50](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.2.49...v1.2.50) (2023-01-05)
 
 
