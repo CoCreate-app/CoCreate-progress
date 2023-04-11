@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.3.3...v1.3.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([4f7b049](https://github.com/CoCreate-app/CoCreate-progress/commit/4f7b04949e715ecdf06182e747ecd22d84ea86e6))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.3.2...v1.3.3) (2023-03-30)
 
 
