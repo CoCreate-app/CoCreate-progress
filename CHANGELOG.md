@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.3.6...v1.4.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([fc56b5d](https://github.com/CoCreate-app/CoCreate-progress/commit/fc56b5dbd390c1a9cdd3495f5b8b29ae885ad0e2))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.3.5...v1.3.6) (2023-04-11)
 
 
