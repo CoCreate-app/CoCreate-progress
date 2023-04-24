@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.0...v1.4.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([4d30016](https://github.com/CoCreate-app/CoCreate-progress/commit/4d30016702900c9ae314c39d836a32357e947594))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.3.6...v1.4.0) (2023-04-24)
 
 
