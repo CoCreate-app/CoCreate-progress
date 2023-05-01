@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.5...v1.4.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([8269d8d](https://github.com/CoCreate-app/CoCreate-progress/commit/8269d8dcbf6cddc2b82bd650d871cf61b4fb35e1))
+
 ## [1.4.5](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.4...v1.4.5) (2023-05-01)
 
 
