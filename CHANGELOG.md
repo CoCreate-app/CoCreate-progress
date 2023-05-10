@@ -1,3 +1,10 @@
+## [1.4.8](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.7...v1.4.8) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([ce23fd9](https://github.com/CoCreate-app/CoCreate-progress/commit/ce23fd9f150180d959bcc3de2f54f572e8059ea3))
+
 ## [1.4.7](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.6...v1.4.7) (2023-05-06)
 
 
