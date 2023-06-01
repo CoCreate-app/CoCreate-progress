@@ -1,45 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Progress | CoCreateJS</title>
-  
-    <!-- CoCreate Favicon -->
-    <link rel="icon" href="https://cdn.cocreate.app/favicon.ico" type="image/ico" sizes="16x16">
-    <link rel="manifest" href="/manifest.webmanifest">
-  </head>
-  <body class="padding:20px">
-  
-    <div class="progress-wrapper display:flex align-items-center"
-      fetch-collection="test"
-      fetch-name=""
-      filter-value=""
-      data-progress_name="start_date"
-      data-progress_value="2020-06-15"
-      data-progress_operator="lt"
-      data-progress_id="progress_test"
-    >
-      <div class="progressTotal padding:0px_10px" data-progress_id="progress_test"></div> 
-      /
-      <div class="progressValue padding:0px_10px" data-progress_id="progress_test"></div>
-      <div class="progressbar" data-progress_id="progress_test"  data-total="" data-value=""></div>
-    </div>
-    
-    <div class="progress-wrapper display:flex align-items-center"
-      fetch-collection="metrics"
-      fetch-name=""
-      filter-value=""
-      data-progress_name="memorySize"
-      data-progress_value="2020-06-15"
-      data-progress_operator="lt"
-      data-progress_id="progress_test-bar"
-    >
-      <div class="progressTotal padding:0px_10px" data-progress_id="progress_test-bar"></div> 
-      /
-      <div class="progressValue padding:0px_10px" data-progress_id="progress_test-bar"></div>
-      <progress class="progressbar" data-progress_id="progress_test-bar"  data-total="" data-value=""></progress>
-    </div>   
-	    
-	    <!--<script src="../dist/CoCreate-progress.js"></script>-->
-	    <script src="https://cdn.cocreate.app/latest/CoCreate.min.js" ></script>
-  </body>
+    <head>
+        <title>Progress | CoCreateJS</title>
+
+        <!-- CoCreate Favicon -->
+        <link
+            rel="icon"
+            href="https://cdn.cocreate.app/favicon.ico"
+            type="image/ico"
+            sizes="16x16" />
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
+    <body class="padding:20px">
+        <div
+            class="progress-wrapper display:flex align-items-center"
+            fetch-collection="test"
+            fetch-name=""
+            filter-value=""
+            data-progress_name="start_date"
+            data-progress_value="2020-06-15"
+            data-progress_operator="lt"
+            data-progress_id="progress_test">
+            <div
+                class="progressTotal padding:0px_10px"
+                data-progress_id="progress_test"></div>
+            /
+            <div
+                class="progressValue padding:0px_10px"
+                data-progress_id="progress_test"></div>
+            <div
+                class="progressbar"
+                data-progress_id="progress_test"
+                data-total=""
+                data-value=""></div>
+        </div>
+
+        <div
+            class="progress-wrapper display:flex align-items-center"
+            fetch-collection="metrics"
+            fetch-name=""
+            filter-value=""
+            data-progress_name="memorySize"
+            data-progress_value="2020-06-15"
+            data-progress_operator="lt"
+            data-progress_id="progress_test-bar">
+            <div
+                class="progressTotal padding:0px_10px"
+                data-progress_id="progress_test-bar"></div>
+            /
+            <div
+                class="progressValue padding:0px_10px"
+                data-progress_id="progress_test-bar"></div>
+            <progress
+                class="progressbar"
+                data-progress_id="progress_test-bar"
+                data-total=""
+                data-value=""></progress>
+        </div>
+
+        <!--<script src="../dist/CoCreate-progress.js"></script>-->
+        <script src="https://cdn.cocreate.app/latest/CoCreate.min.js"></script>
+    </body>
 </html>
