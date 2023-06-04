@@ -1,3 +1,10 @@
+## [1.4.11](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.10...v1.4.11) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([0ade24c](https://github.com/CoCreate-app/CoCreate-progress/commit/0ade24c5864c965da1ce79d88516d8510de43242))
+
 ## [1.4.10](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.9...v1.4.10) (2023-05-21)
 
 
