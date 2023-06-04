@@ -1,3 +1,11 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.11...v1.4.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([644b192](https://github.com/CoCreate-app/CoCreate-progress/commit/644b1928622458202610ee4acbc82d4dd8c1b193))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([7225149](https://github.com/CoCreate-app/CoCreate-progress/commit/7225149ecc7a97c20704ab7da0ba94879d9501ef))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.10...v1.4.11) (2023-06-04)
 
 
