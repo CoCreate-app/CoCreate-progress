@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([afb44e7](https://github.com/CoCreate-app/CoCreate-progress/commit/afb44e7da5b804ba91f207f8fc75fb7341b87ca1))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.11...v1.4.12) (2023-06-04)
 
 
