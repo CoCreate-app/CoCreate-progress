@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@cocreate/crud-client": "^1.21.10",
-    "@cocreate/docs": "^1.8.2",
+    "@cocreate/docs": "^1.8.13",
     "@cocreate/filter": "^1.19.16"
   }
 }
