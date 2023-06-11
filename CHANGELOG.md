@@ -1,3 +1,10 @@
+## [1.4.23](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.22...v1.4.23) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([4070a89](https://github.com/CoCreate-app/CoCreate-progress/commit/4070a89fd91c5c236ccb26a7491f7a0b67a47a1f))
+
 ## [1.4.22](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.21...v1.4.22) (2023-06-11)
 
 
