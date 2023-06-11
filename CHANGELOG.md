@@ -1,3 +1,10 @@
+## [1.4.19](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.18...v1.4.19) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([a4ff01e](https://github.com/CoCreate-app/CoCreate-progress/commit/a4ff01e77758f7cf95dbbf66fd4e3af296102bef))
+
 ## [1.4.18](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.17...v1.4.18) (2023-06-11)
 
 
