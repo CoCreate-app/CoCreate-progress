@@ -125,7 +125,7 @@ var CoCreateProgress = {
         valueFilter['metadata'] = 'progress-value'
 
         let val_filter = [].concat(valueFilter['operator']['filters']);
-        val_filter.push({ name: progressName, value: [progressValue], operator: valueOperator });
+        val_filter.push({ key: progressName, value: [progressValue], operator: valueOperator });
         valueFilter['operator']['filters'] = val_filter;
 
         crud.send(totalFilter)
