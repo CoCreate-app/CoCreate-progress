@@ -13,26 +13,17 @@
     </head>
     <body class="padding:20px">
         <div
-            class="progress-wrapper display:flex align-items-center"
+            plugin="progress"
             array="test"
-            key=""
-            filter-value=""
-            data-progress_key="start_date"
-            data-progress_value="2020-06-15"
-            data-progress_operator="lt"
-            data-progress_id="progress_test">
-            <div
-                class="progressTotal padding:0px_10px"
-                data-progress_id="progress_test"></div>
+            object=""
+            filter-key="start_date"
+            filter-value="2020-06-15"
+            filter-operator="lt"
+            class="display:flex align-items-center">
+            <div class="progressTotal padding:0px_10px"></div>
             /
-            <div
-                class="progressValue padding:0px_10px"
-                data-progress_id="progress_test"></div>
-            <div
-                class="progressbar"
-                data-progress_id="progress_test"
-                data-total=""
-                data-value=""></div>
+            <div class="progressValue padding:0px_10px"></div>
+            <div class="progressbar" data-total="" data-value=""></div>
         </div>
 
         <div
@@ -40,20 +31,14 @@
             array="metrics"
             key=""
             filter-value=""
-            data-progress_key="memorySize"
-            data-progress_value="2020-06-15"
-            data-progress_operator="lt"
-            data-progress_id="progress_test-bar">
-            <div
-                class="progressTotal padding:0px_10px"
-                data-progress_id="progress_test-bar"></div>
+            filter-key="memorySize"
+            filter-value="2020-06-15"
+            filter-operator="lt">
+            <div class="progressTotal padding:0px_10px"></div>
             /
-            <div
-                class="progressValue padding:0px_10px"
-                data-progress_id="progress_test-bar"></div>
+            <div class="progressValue padding:0px_10px"></div>
             <progress
                 class="progressbar"
-                data-progress_id="progress_test-bar"
                 data-total=""
                 data-value=""></progress>
         </div>
