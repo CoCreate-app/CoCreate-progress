@@ -1,3 +1,22 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.27...v1.5.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([7e866ef](https://github.com/CoCreate-app/CoCreate-progress/commit/7e866ef831bdd666e47c40460cdf4be01a4002cf))
+* Refactor progress elements in demo index.html ([e27626e](https://github.com/CoCreate-app/CoCreate-progress/commit/e27626ecbc6828c913e2386da68557aa9e770ed6))
+* Remove duplicate attribute in progress-wrapper component ([c0d7ce9](https://github.com/CoCreate-app/CoCreate-progress/commit/c0d7ce9049a8e432959997de13f7b7f3a124b42e))
+* Remove unnecessary dependencies. ([2dea3ec](https://github.com/CoCreate-app/CoCreate-progress/commit/2dea3ecda2971858c216352d973ce4f66ee86f2f))
+* replace -target -selector ([804a2ba](https://github.com/CoCreate-app/CoCreate-progress/commit/804a2bab18e891094a59dfe0b1d90bba6abc6944))
+* webpack.config and package.json make use of mode=production instead of process.env ([80e4a9e](https://github.com/CoCreate-app/CoCreate-progress/commit/80e4a9e9376221a6846f53f8157a7c06897e8f22))
+
+
+### Features
+
+* element.setValue and element.getValue replaces crud and filter ([032ddae](https://github.com/CoCreate-app/CoCreate-progress/commit/032ddae42b372610ca7b00e2b05da8d4655f8119))
+* name attribute and variable renamed to key ([0f0b4f5](https://github.com/CoCreate-app/CoCreate-progress/commit/0f0b4f5758db72df2b52de24080a115cfdb2708f))
+* update template_id to render-selector attribute. update filter attributes to filter selector-attributes ([0f63d12](https://github.com/CoCreate-app/CoCreate-progress/commit/0f63d12810364edec0d297b564404d04ded5050e))
+
 ## [1.4.27](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.26...v1.4.27) (2023-06-14)
 
 
