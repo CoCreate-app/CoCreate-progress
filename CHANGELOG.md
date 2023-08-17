@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.5.0...v1.6.0) (2023-08-17)
+
+
+### Features
+
+* bump cocreate dependencies for the latest updates and features ([00a1d97](https://github.com/CoCreate-app/CoCreate-progress/commit/00a1d97c9b17710702b2529fb3c33085f40e86ad))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.4.27...v1.5.0) (2023-08-16)
 
 
