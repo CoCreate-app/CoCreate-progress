@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([e8c844d](https://github.com/CoCreate-app/CoCreate-progress/commit/e8c844d0ef97bb260ed6b66bc991b5bbfcccef85))
+* Update CoCreate depndencies to latest versions ([4653da9](https://github.com/CoCreate-app/CoCreate-progress/commit/4653da99d6f48ffca9b82cbaf15ba5c88b19a47b))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.0...v1.7.1) (2023-09-07)
 
 
