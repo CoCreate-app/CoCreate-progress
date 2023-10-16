@@ -2,7 +2,7 @@ var CoCreateProgress = {
     selector: "[plugin='progress']",
     // mainObjects: [],
 
-    init: function (element) {
+    init: async function (element) {
         if (element && !Array.isArray(element))
             element = [element]
         else if (!element)
@@ -11,7 +11,7 @@ var CoCreateProgress = {
         for (let i = 0; i < element.length; i++) {
             element[i].setValue = (data) => this.setData(element[i], data)
             if (element[i].getValue) {
-                let value = element[i].getValue()
+                let value = await element[i].getValue()
                 if (value)
                     element[i].setValue(value)
             }
