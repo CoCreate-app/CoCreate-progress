@@ -1,3 +1,10 @@
+## [1.7.3](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.2...v1.7.3) (2023-10-17)
+
+
+### Bug Fixes
+
+* await getValue() ([52a1da8](https://github.com/CoCreate-app/CoCreate-progress/commit/52a1da8112400bf423a49877022d7bfb6e55ceb5))
+
 ## [1.7.2](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.1...v1.7.2) (2023-09-18)
 
 
