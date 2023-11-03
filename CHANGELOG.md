@@ -1,3 +1,11 @@
+## [1.7.5](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.4...v1.7.5) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([69bd631](https://github.com/CoCreate-app/CoCreate-progress/commit/69bd631ae162db875f3f6e2ea7045a95def454c1))
+* update dependencies to the lates versions ([d7c6472](https://github.com/CoCreate-app/CoCreate-progress/commit/d7c6472c2cd427ccd1b10dfda54452c32b9ae036))
+
 ## [1.7.4](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.3...v1.7.4) (2023-10-25)
 
 
