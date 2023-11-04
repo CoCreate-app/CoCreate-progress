@@ -79,8 +79,8 @@ var CoCreateProgress = {
 
     //         let filter = select_obj.filter;
     //         console.log(filter)
-    //         let totalFilter = { method: 'read.object', ...filter };
-    //         let valueFilter = { method: 'read.object', ...filter }
+    //         let totalFilter = { method: 'object.read', ...filter };
+    //         let valueFilter = { method: 'object.read', ...filter }
 
     //         let progressName = el.getAttribute('data-progress_name')
     //         let progressValue = el.getAttribute('data-progress_value')
