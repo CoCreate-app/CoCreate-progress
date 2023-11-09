@@ -1,3 +1,12 @@
+## [1.7.6](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.5...v1.7.6) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([8a0d839](https://github.com/CoCreate-app/CoCreate-progress/commit/8a0d839f404bf66b57a6a176bb4091970cac584d))
+* update crud methods ([3a058c6](https://github.com/CoCreate-app/CoCreate-progress/commit/3a058c668318ea1dbf845d65f31f292f4ce1955d))
+* update host ([b482a06](https://github.com/CoCreate-app/CoCreate-progress/commit/b482a06a80206b4491998190e4e28b8e964a0477))
+
 ## [1.7.5](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.4...v1.7.5) (2023-11-03)
 
 
