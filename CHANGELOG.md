@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.8.0...v1.9.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([71406c3](https://github.com/CoCreate-app/CoCreate-progress/commit/71406c3e2f6320acc449700f836d2ea064b82246))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([4c1477b](https://github.com/CoCreate-app/CoCreate-progress/commit/4c1477bc149479c27ac3ad43118bf16d8370791f))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.7.7...v1.8.0) (2023-11-19)
 
 
