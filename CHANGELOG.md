@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.9.0...v1.10.0) (2023-11-25)
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([3cd5a5c](https://github.com/CoCreate-app/CoCreate-progress/commit/3cd5a5ce859cf669655814d16ea401299c26d0b9))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.8.0...v1.9.0) (2023-11-25)
 
 
