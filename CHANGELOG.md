@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.10.0...v1.10.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([8217c9e](https://github.com/CoCreate-app/CoCreate-progress/commit/8217c9e8643fffa8d54e9a2138bdc168bb7bb435))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.9.0...v1.10.0) (2023-11-25)
 
 
