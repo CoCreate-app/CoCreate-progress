@@ -1,3 +1,11 @@
+## [1.10.3](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.10.2...v1.10.3) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([8950d17](https://github.com/CoCreate-app/CoCreate-progress/commit/8950d174d22743e437e2f095027b825eb8e72454))
+* svg icon class ([10f9cbc](https://github.com/CoCreate-app/CoCreate-progress/commit/10f9cbca293a9cf0c0e34884e1db1a0178f1b6c6))
+
 ## [1.10.2](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.10.1...v1.10.2) (2024-04-29)
 
 
