@@ -1,48 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Progress | CoCreateJS</title>
+	<head>
+		<title>Progress | CoCreateJS</title>
 
-        <!-- CoCreate Favicon -->
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../assets/favicon.ico" />
-        <link rel="manifest" href="/manifest.webmanifest" />
-    </head>
-    <body class="padding:20px">
-        <div
-            plugin="progress"
-            array="test"
-            object=""
-            filter-key="start_date"
-            filter-value="2020-06-15"
-            filter-operator="lt"
-            class="display:flex align-items-center">
-            <div class="progressTotal padding:0px_10px"></div>
-            /
-            <div class="progressValue padding:0px_10px"></div>
-            <div class="progressbar" data-total="" data-value=""></div>
-        </div>
+		<!-- CoCreate Favicon -->
+		<link
+			rel="icon"
+			type="image/png"
+			sizes="32x32"
+			href="../assets/favicon.ico" />
+		<link rel="manifest" href="/manifest.webmanifest" />
+	</head>
+	<body class="padding:20px">
+		<div
+			plugin="progress"
+			array="test"
+			object=""
+			filter-query-key="start_date"
+			filter-query-value="2020-06-15"
+			filter-operator="lt"
+			class="display:flex align-items-center">
+			<div class="progressTotal padding:0px_10px"></div>
+			/
+			<div class="progressValue padding:0px_10px"></div>
+			<div class="progressbar" data-total="" data-value=""></div>
+		</div>
 
-        <div
-            class="progress-wrapper display:flex align-items-center"
-            array="metrics"
-            key=""
-            filter-key="memorySize"
-            filter-value="2020-06-15"
-            filter-operator="lt">
-            <div class="progressTotal padding:0px_10px"></div>
-            /
-            <div class="progressValue padding:0px_10px"></div>
-            <progress
-                class="progressbar"
-                data-total=""
-                data-value=""></progress>
-        </div>
+		<div
+			class="progress-wrapper display:flex align-items-center"
+			array="metrics"
+			key=""
+			filter-query-key="memorySize"
+			filter-query-value="2020-06-15"
+			filter-operator="lt">
+			<div class="progressTotal padding:0px_10px"></div>
+			/
+			<div class="progressValue padding:0px_10px"></div>
+			<progress
+				class="progressbar"
+				data-total=""
+				data-value=""></progress>
+		</div>
 
-        <!--<script src="../dist/CoCreate-progress.js"></script>-->
-        <script src="https://CoCreate.app/dist/CoCreate.js"></script>
-    </body>
+		<!--<script src="../dist/CoCreate-progress.js"></script>-->
+		<script src="https://CoCreate.app/dist/CoCreate.js"></script>
+	</body>
 </html>
