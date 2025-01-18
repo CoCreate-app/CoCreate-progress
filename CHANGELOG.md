@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.11.0...v1.11.1) (2025-01-18)
+
+
+### Bug Fixes
+
+* filter-query-key ([7db65f5](https://github.com/CoCreate-app/CoCreate-progress/commit/7db65f5790ceea11617f26e110c1e4714eebbb38))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-progress/compare/v1.10.3...v1.11.0) (2024-11-04)
 
 
